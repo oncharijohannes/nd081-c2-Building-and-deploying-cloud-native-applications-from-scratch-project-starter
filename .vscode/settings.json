@@ -1,0 +1,10 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d5534d9c-f9ec-48a4-8492-e96b71f17256/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/neighborlywebapp",
+    "appService.deploySubpath": "NeighborlyFrontEnd",
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.pythonVenv": ".venv",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen"
+}
